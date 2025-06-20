@@ -1,6 +1,5 @@
-# Crop360 | Holistic Plant & Crop Management
+# Crop360 | Holistic Plant & Crop Management | Final Year Major Project
 (Diagnose | Decide | Predict)
-Final Year Major Project
 Live Output: Oct 2024 – Dec 2024
 
 # Description
