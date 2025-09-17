@@ -107,7 +107,7 @@ Multilingual support for broader accessibility
 <h2 align="center">📸 Project Screenshots</h2>
 
 <p align="center">
-  <img src="[assets/screenshot1.png](https://onedrive.live.com/?viewid=2bc67d3c%2Db0af%2D4532%2D86d8%2D342f702b420b&id=%2Fpersonal%2F425634af4e163d54%2FDocuments%2FPictures%2FScreenshots%201%2FScreenshot%202024%2D11%2D26%20133756%2Epng&parent=%2Fpersonal%2F425634af4e163d54%2FDocuments%2FPictures%2FScreenshots%201)" alt="Homepage Screenshot" width="600"/>
+  <img src="C:\Users\alamu\OneDrive\Pictures\Screenshots 1" alt="Homepage Screenshot" width="600"/>
 </p>
 
 <p align="center">
