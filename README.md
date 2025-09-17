@@ -13,7 +13,15 @@ Trained on 200,000+ datasets, Crop360 delivers actionable insights with a 97% di
 </p>
 
 <p align="center">
-  <img src="assets/screenshot2.png" alt="Dashboard Screenshot" width="600"/>
+  <img src="Screenshot 2024-11-26 133822.png" alt="Dashboard Screenshot" width="600"/>
+</p>
+
+<p align="center">
+  <img src="Screenshot 2024-11-26 134110.png" alt="Dashboard Screenshot" width="600"/>
+</p>
+
+<p align="center">
+  <img src="Screenshot 2024-11-26 134335.png" alt="Dashboard Screenshot" width="600"/>
 </p>
 
 
@@ -121,6 +129,18 @@ Feel free to submit suggestions, issues, or pull requests via GitHub Issues.
 
 Acknowledgements
 We acknowledge the support of the agricultural research community, data contributors, and farmers who helped shape the foundation of Crop360.
+
+<p align="center">
+  <img src="Screenshot 2024-11-26 143435.png" alt="Dashboard Screenshot" width="600"/>
+</p>
+
+<p align="center">
+  <img src="Screenshot 2024-11-26 143555.png" alt="Dashboard Screenshot" width="600"/>
+</p>
+
+<p align="center">
+  <img src="Screenshot 2024-11-26 144338.png" alt="Dashboard Screenshot" width="600"/>
+</p>
 
 Contact
 Email: alamumar91@gmail.com
