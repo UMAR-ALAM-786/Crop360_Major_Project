@@ -9,7 +9,7 @@ Trained on 200,000+ datasets, Crop360 delivers actionable insights with a 97% di
 <h2 align="center">📸 Project Screenshots</h2>
 
 <p align="center">
-  <img src="Crop360_Major_Project/Screenshot 2024-11-26 133756.png" alt="Homepage Screenshot" width="600"/>
+  <img src="Screenshot 2024-11-26 133756.png" alt="Homepage Screenshot" width="600"/>
 </p>
 
 <p align="center">
