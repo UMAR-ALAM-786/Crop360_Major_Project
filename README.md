@@ -104,17 +104,6 @@ User feedback loops to continuously retrain and improve model accuracy
 
 Multilingual support for broader accessibility
 
-<h2 align="center">📸 Project Screenshots</h2>
-
-<p align="center">
-  <img src="C:\Users\alamu\OneDrive\Pictures\Screenshots 1" alt="Homepage Screenshot" width="600"/>
-</p>
-
-<p align="center">
-  <img src="assets/screenshot2.png" alt="Dashboard Screenshot" width="600"/>
-</p>
-
-
 Contributions
 Contributions are highly welcome!
 Feel free to submit suggestions, issues, or pull requests via GitHub Issues.
