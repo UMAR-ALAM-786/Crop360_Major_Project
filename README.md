@@ -6,15 +6,12 @@ Live Output: Oct 2024 – Dec 2024
 Crop360 is an AI-driven agricultural platform that provides comprehensive support to farmers and agronomists. It helps them diagnose plant diseases, recommend suitable crops, and predict crop yields by analyzing data such as soil pH, sunlight exposure, geolocation, temperature, and humidity.
 Trained on 200,000+ datasets, Crop360 delivers actionable insights with a 97% disease detection accuracy, aiming to reduce crop losses by up to 30%.
 
-<h2 align="center">📸 Project Screenshots</h2>
+<h2 align="center"><b>📸 Project Screenshots</b></h2>
 
 <p align="center">
   <img src="Screenshot 2024-11-26 133756.png" alt="Homepage Screenshot" width="600"/>
 </p>
 
-<p align="center">
-  <img src="Screenshot 2024-11-26 133822.png" alt="Dashboard Screenshot" width="600"/>
-</p>
 
 <p align="center">
   <img src="Screenshot 2024-11-26 134110.png" alt="Dashboard Screenshot" width="600"/>
