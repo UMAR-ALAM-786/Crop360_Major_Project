@@ -6,3 +6,17 @@ seaborn==0.13.0
 pandas==2.1.0
 streamlit
 librosa==0.10.1
+gunicorn
+
+tensorboard-plugin-wit==1.8.0
+itsdangerous==2.0.1
+Jinja2==3.0.1
+tensorboard==2.4.1
+tensorflow-estimator==2.4.0
+pip install Keras-Preprocessing==1.1.2
+matplotlib-inline==0.1.2
+MarkupSafe==2.0.1
+scipy==1.6.2
+sklearn==0.0
+Werkzeug==2.0.1
+
