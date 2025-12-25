@@ -1,7 +1,9 @@
 # Crop360 | Holistic Plant & Crop Management | Final Year Major Project
 (Diagnose | Decide | Predict)
 Live Output: Oct 2024 – Dec 2024
-Live Demo: https://www.linkedin.com/posts/umar-alam-khan_python-tensorflow-scikit-activity-7257497469440139264-RRmV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-syYsBKd9HWIEqgk_fRUjb1v5b9uRQhiU
+
+# Live Demo: 
+https://www.linkedin.com/posts/umar-alam-khan_python-tensorflow-scikit-activity-7257497469440139264-RRmV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-syYsBKd9HWIEqgk_fRUjb1v5b9uRQhiU
 
 # Description
 Crop360 is an AI-driven agricultural platform that provides comprehensive support to farmers and agronomists. It helps them diagnose plant diseases, recommend suitable crops, and predict crop yields by analyzing data such as soil pH, sunlight exposure, geolocation, temperature, and humidity.
