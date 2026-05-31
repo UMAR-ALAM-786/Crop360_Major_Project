@@ -7,7 +7,7 @@ https://www.linkedin.com/posts/umar-alam-khan_python-tensorflow-scikit-activity-
 
 # Description
 Crop360 is an AI-driven agricultural platform that provides comprehensive support to farmers and agronomists. It helps them diagnose plant diseases, recommend suitable crops, and predict crop yields by analyzing data such as soil pH, sunlight exposure, geolocation, temperature, and humidity.
-Trained on 200,000+ datasets, Crop360 delivers actionable insights with a 97% disease detection accuracy, aiming to reduce crop losses by up to 30%.
+Trained on 200,000+ datasets, Crop360 delivers actionable insights with a 97% disease detection accuracy, aiming to reduce crop losses by up to 30%.                
 
 <h2 align="center"><b>📸 Project Screenshots</b></h2>
 
